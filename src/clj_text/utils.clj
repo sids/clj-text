@@ -1,4 +1,4 @@
-(ns clj.text.utils)
+(ns clj-text.utils)
 
 (defmacro call
   "Macro that expands to a call to function f in the given namespace."
